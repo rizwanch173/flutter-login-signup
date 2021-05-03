@@ -10,9 +10,9 @@ Flutter Login and Signup Demo for Android and IOS Flutter
      <td>Holiday Mention</td>
     
   </tr>  -->
-  <tr style="border: none;">
-    <td style="border: none;" ><img src="https://user-images.githubusercontent.com/57150383/116878277-91d91080-ac38-11eb-89e4-aa9e16b42a13.png" ></td>
-    <td style="border: none;" ><img src="https://user-images.githubusercontent.com/57150383/116878293-96052e00-ac38-11eb-9f69-ddb19405b525.png" ></td>
+  <tr >
+    <td ><img src="https://user-images.githubusercontent.com/57150383/116878277-91d91080-ac38-11eb-89e4-aa9e16b42a13.png" ></td>
+    <td  ><img src="https://user-images.githubusercontent.com/57150383/116878293-96052e00-ac38-11eb-9f69-ddb19405b525.png" ></td>
   </tr>
  </table>
  
