@@ -4,7 +4,7 @@ Flutter Login and Signup Demo for Android and IOS Flutter
 
 
 
-<table>
+<table style="border: none;"> > 
 <!--     <tr>
     <td>First Screen Page</td>
      <td>Holiday Mention</td>
