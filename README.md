@@ -5,11 +5,11 @@ Flutter Login and Signup Demo for Android and IOS Flutter
 
 
 <table>
-    <tr>
+<!--     <tr>
     <td>First Screen Page</td>
      <td>Holiday Mention</td>
     
-  </tr> 
+  </tr>  -->
   <tr>
     <td><img src="https://user-images.githubusercontent.com/57150383/116878277-91d91080-ac38-11eb-89e4-aa9e16b42a13.png" ></td>
     <td><img src="https://user-images.githubusercontent.com/57150383/116878293-96052e00-ac38-11eb-9f69-ddb19405b525.png" ></td>
